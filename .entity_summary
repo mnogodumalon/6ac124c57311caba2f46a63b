@@ -1,0 +1,1 @@
+- Hunde (hunde): hundename[string/text], rasse[string/text], geschlecht[lookup/radio], geburtsdatum[date/date], bemerkungen[string/textarea], halter_vorname[string/text], halter_nachname[string/text], halter_email[string/email], halter_telefon[string/tel]
